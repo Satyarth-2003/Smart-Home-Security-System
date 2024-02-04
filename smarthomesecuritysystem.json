@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smarthomesecuritysystem-7e9a0",
+  "private_key_id": "274f91029ea11435921ae7955a7471a3741bd6f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9jOAhCtFRkpRU\nHunj/nky9gfu0biNCxI4GCvOhVbZ9KBY4AX95Rp/WxY1HBOdE2zl7aLDfYD+kZF2\nCWPBrB9zI4Ad+7pBnPLmayaBYj90Rhz6PnFG4I+8f6cnNfI7XnyunOclX65ZedWc\nOD8BWvk8UEWn/hH9vY8e6muC1FCF/rSnde12fGxfSBwSGeDpqdVoL9eCQ8513nIr\npxsvrjHinB37JdQL+yvqP/pyyqjAxTeEWpTMp8GgscOdGAzG1g01ZqiS73DXYGWH\nlMtumTtqp3zE0kxwrFuX+WoKhG+QIf+AAHmC6OKLU3sqyf6lq5AN3+hSmdlIMAEF\nkCxare0zAgMBAAECggEAQT8f21/c44ZgNoCZpBhxYcBcxLE+JJa+A78WPTWaytWw\n6Ebc6SOWtmYFQ+zRN417O75L+5zU7UvwVUAwLXdxL/H1ZNzEpVdAKV6S15CZJQ4J\nZX5fAbXE5G7Qe+fO5O7GXli2HCBOZJBSnj6iOXY2OrOq9oO3b69zd4Hb1iH9QdHs\nxfk2YIBWavUZ/4FIER5WXrjh7KvAVYOMk/HhPvEa7+CCks5Y8GjABsK5QbD82uEp\ntJsGPaW7ClwKiaXeEmin0ocBrm8xU+Fx0afUhNj0bFGibkJmk4j3mDi7dC1kotoa\nit1y514jqXXCE/CrFZ3hj98tjtlt0RctD/Ot4qVdYQKBgQD/ybxuWS9MMaAMpSQd\nw22O4iExiIhLo//hn8QE3Z+QkCOkAgdxvKnhKOiTTjM2EJc/Wj8k/ebuLXz0z0cJ\nk/FvZnXnmM0TxZoNukNWCFBq3UOcldhWefVa1SyWVUhSm2tyYo8KmI5O7TiNUUSQ\nbPeVmGYSvDpfS6OKg1QxWTttQwKBgQC9tRZmGGb0Z9rGaruNQ7C5LAq27z091Qls\n0Tfgn6xyzot3ymwnp5jqcFSq9yDvNidy8Pv7VdQ8EP/kpwY5/sk4PdLq4VzpIyDk\nagnRCdl0FeUTZfiIZjnGrfvvsXUpZuNzbGcZDAusauXtgFcKIPO32UvKYA+83ajR\n5JRFGsMJUQKBgQC0RA2LS0k9DoA4SS4h17ffidhQ22MKw+KytPDlaPdqX1ru3As5\nCfhDWZxHLEaFJL4jBMwZmuLkGqTEt0veISh3FSOk+5gUBh/i6tFH0YYzOgrLUQNt\nNnhG8pOAw0u8BBJ+Q52BnzAzyZUgaxTCIDmAcS4GqCcPP/RayuFMAhISlwKBgBSF\n7MBqz2iNe7uPfG7R7eJ6g0Y7J5Ly4ywkjjj8zTk2Yxw4h+7aUM68DEzao3N9llL3\nAyuzo1xEMorYDvJjP/2XoqPKcbS/GiXb2ugEesP2QmwQ0gxfksyNsf3CYvxxpxWr\nmpO5G+IxRmKlScVMv1Eabvqb3df+2u6qHehD9umhAoGBAMeVyHQ/Jh/Tjn0coVWs\ndWwdHnTbzv0E9W/MpWoLYfPj/oTq21MU1pHFyZp7Zv6iAT3o0rtnFgNHP+YJrBRQ\nk296Ultuwqrz609W0U2ElP3thrBWA3gSfXcdUgN3IDnpmwWML9ULVoA92vjc8FKt\nI1d4e7BWiNLjpamNcX6s5Lj0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4a7e6@smarthomesecuritysystem-7e9a0.iam.gserviceaccount.com",
+  "client_id": "109446643613391467527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4a7e6%40smarthomesecuritysystem-7e9a0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
